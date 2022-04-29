@@ -28,7 +28,7 @@ Abra a pasta clonada no seu editor de código ou diretamente no terminal do seu 
 ⚙️ Para rodar o formulário:
 
 ```
-Pelo terminal abra a pasta hero-forms/forms;
+Pelo terminal abra a pasta hero-forms/front;
 Rode no terminal o comando: npm install;
 Ao terminar rode no terminal o comando: ng serve
 ```
