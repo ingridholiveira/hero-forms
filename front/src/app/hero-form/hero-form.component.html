@@ -19,9 +19,6 @@
       <div class="form-group">
         <label for="email">Email</label>
         <input type="text" class="form-control" id="email" required [(ngModel)]="model.email" name="email" />
-        <div [hidden]="email.valid || email.pristine" class="alert alert-danger">
-          Email is required
-        </div>
       </div>
 
 
